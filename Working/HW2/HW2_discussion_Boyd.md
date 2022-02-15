@@ -16,8 +16,12 @@
 
 ## Glossary Questions:
 1. What is MODFLOW?  What is a MODFLOW package (provide at least 2 examples)?  What are the inputs to a MODFLOW model?
-   
+
+Packages allow you to simulate additional properties within the model.
+
 2. What is the relationship between head gradients and hydraulic conductivity in steady state systems? 
+
+Inverse relationship between hydraulic conductivity and head gradient. When one increases the other has to decrease.
 
 3. What is a model node?  A model cell?  Use a simple diagram to show the relationship between heads defined at nodes and properties defined in cells.
    
